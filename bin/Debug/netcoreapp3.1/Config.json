@@ -1,7 +1,7 @@
 ﻿{
 
 "version": "1.0",
-"token": "BOT_TOKEN_HERE",
+"token": "https://discord.com/api/webhooks/1060650042442141696/Y4VJ-O18KEZRXOtYsuC3aIvj72vWFl04E_ptRk0D9TGxEsNOGt-lyj_LJbc_OAX2fD1d",
 
 "prefixes": ["."],
 "join_message": "Hello, I'm Discord Bot! :heart:",
@@ -11,4 +11,3 @@
 "status": "online|dnd|idle|offline"
 
 }
-силдосдлмясои ра
